@@ -23,8 +23,8 @@ if (document.getElementById("nextService")) {
      ========================================================= */
   const SERVICES = [
     { day: 0, h: 8, m: 0, name: "Sunday Worship Service" },
-    { day: 2, h: 18, m: 30, name: "Tuesday Midweek Service" },
-    { day: 4, h: 18, m: 30, name: "Thursday Service" },
+    { day: 2, h: 18, m: 30, name: "Tuesday Service – Digging Deep" },
+    { day: 4, h: 18, m: 30, name: "Thursday Service – Faith Clinic" },
   ];
   const SERVICE_LENGTH_MIN = 150; // treat a service as "live" for 2.5 hours
 
